@@ -1,2 +1,2 @@
 # scc-html
-Codespace configuration files for: SCC; Unit: HTML
+Codespace configuration files for: SCC; Unit: Python

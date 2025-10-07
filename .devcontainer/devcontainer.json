@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/javascript-node
 {
-	"name": "SCC HTML",
+	"name": "SCC Python",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -16,9 +16,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"achil.vscode-javascript-repl",
-				"ms-vsliveshare.vsliveshare",
-				"ritwickdey.liveserver"
+				"ms-python.python",
+				"ms-vsliveshare.vsliveshare"
 			],
 			"settings": {
 				"files.exclude": {
